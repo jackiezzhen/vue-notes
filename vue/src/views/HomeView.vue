@@ -9,7 +9,7 @@
 </template>
 
 <script setup>
-import DestCard from "@/components/DestCard.vue";
+import DestCard from "@/components/icons/DestCard.vue";
 const destination = [
 {
           name: "Venetian Renaissance",
